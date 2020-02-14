@@ -1,2 +1,3 @@
-# cyclops_web_gui
-Cyclops Web GUI customizations
+# Cyclops Web GUI
+
+This repository is for web alternatives to install with cyclops like dokuwiki, graphana and others
